@@ -1,0 +1,84 @@
+{
+    "destinations": [
+        {
+            "id": 1,
+            "name": "Paris",
+            "country": "France",
+            "days": 5,
+            "funFact": "The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion.",
+            "price": 1200
+        },
+        {
+            "id": 2,
+            "name": "Tokyo",
+            "country": "Japan",
+            "days": 7,
+            "funFact": "Tokyo is the world's most populous city with over 37 million residents.",
+            "price": 1500
+        },
+        {
+            "id": 3,
+            "name": "New York",
+            "country": "USA",
+            "days": 6,
+            "funFact": "The Statue of Liberty was a gift from France to the USA in 1886.",
+            "price": 1800
+        },
+        {
+            "id": 4,
+            "name": "Sydney",
+            "country": "Australia",
+            "days": 8,
+            "funFact": "Sydney's Opera House is one of the most recognizable buildings in the world.",
+            "price": 2000
+        },
+        {
+            "id": 5,
+            "name": "Cape Town",
+            "country": "South Africa",
+            "days": 10,
+            "funFact": "Table Mountain is one of the New7Wonders of Nature.",
+            "price": 2500
+        },
+        {
+            "id": 6,
+            "name": "Rio de Janeiro",
+            "country": "Brazil",
+            "days": 7,
+            "funFact": "The Christ the Redeemer statue is one of the New7Wonders of the World.",
+            "price": 2200
+        },
+        {
+            "id": 7,
+            "name": "Rome",
+            "country": "Italy",
+            "days": 5,
+            "funFact": "Rome has more fountains than any other city in the world.",
+            "price": 1300
+        },
+        {
+            "id": 8,
+            "name": "Istanbul",
+            "country": "Turkey",
+            "days": 6,
+            "funFact": "Istanbul is the only city in the world that spans two continents.",
+            "price": 1400
+        },
+        {
+            "id": 9,
+            "name": "Bangkok",
+            "country": "Thailand",
+            "days": 7,
+            "funFact": "Bangkok is known as the 'City of Angels' in Thai.",
+            "price": 1100
+        },
+        {
+            "id": 10,
+            "name": "Dubai",
+            "country": "UAE",
+            "days": 5,
+            "funFact": "Dubai is home to the world's tallest building, the Burj Khalifa.",
+            "price": 1600
+        }
+    ]
+}
